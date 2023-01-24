@@ -1,0 +1,98 @@
+.wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+div {
+  display: block;
+}
+
+#imgchip {
+  width: 50px;
+  padding-top: 35px;
+  margin-left: -5px;
+}
+#imgcvisa {
+  position: relative;
+  top: 100px;
+  left: 150px;
+  width: 100px;
+  height: auto;
+}
+
+.visa {
+  background-color: #8a2be2;
+  width: 315px;
+  height: 200px;
+  padding: 0px;
+  margin: 10px;
+  font-family: "Courier New", Courier, monospace;
+  color: #ffffff;
+  border-radius: 10px;
+  padding-left: 15px;
+}
+#num {
+  font-weight: 200;
+  font-size: 25px;
+  text-align: left;
+  padding-bottom: 0px;
+  margin: 0px;
+  margin-top: -5px;
+}
+#name {
+  font-weight: bold;
+  font-size: 20px;
+  padding-bottom: 15px;
+  padding-top: 0px;
+  margin: 0px;
+  font-family: monospace;
+}
+#val {
+  font-size: 9px;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Tahoma", sans-serif;
+}
+#date {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Tahoma", sans-serif;
+}
+p {
+  display: block;
+  margin-block-start: 16px;
+  margin-block-end: 16px;
+}
+.visa1 {
+  background-color: #06a82f;
+  width: 315px;
+  height: 200px;
+  padding: 0px;
+  margin: 10px;
+  font-family: "Courier New", Courier, monospace;
+  color: #ffffff;
+  border-radius: 10px;
+  padding-left: 15px;
+}
+.visa2 {
+  background-color: #000000;
+  width: 315px;
+  height: 200px;
+  padding: 0px;
+  margin: 10px;
+  font-family: "Courier New", Courier, monospace;
+  color: #ffffff;
+  border-radius: 10px;
+  padding-left: 15px;
+}
+.visa3 {
+  background-color: #2504dd;
+  width: 315px;
+  height: 200px;
+  padding: 0px;
+  margin: 10px;
+  font-family: "Courier New", Courier, monospace;
+  color: #ffffff;
+  border-radius: 10px;
+  padding-left: 15px;
+}
